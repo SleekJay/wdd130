@@ -7,6 +7,10 @@
     --body-font: "Arial", Helvetica, sans-serif;
 }
 
+a:hover {
+    color: var(--secondary-color);
+}
+
 * {
     margin: 0;
     padding: 0;
